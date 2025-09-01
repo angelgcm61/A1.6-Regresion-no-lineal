@@ -11,4 +11,4 @@ actividad 48 horas antes del domingo a medianoche.
 Los documentos son:
 - [Reporte en formato html](./A1.6-Regresion-no-lineal.html)
 - [Reporte en formato ipynb](./A1.6-Regresion-no-lineal.ipynb)
-- [Base de datos](./A1.6-Tiempo-de-entrega.csv)
+- [Base de datos](./A1.6-Tiempo-de-Entrega.csv)
